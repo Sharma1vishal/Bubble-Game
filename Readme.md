@@ -9,7 +9,7 @@ This project demonstrates DOM manipulation, event handling, game logic, responsi
 
 ## 🚀 Live Demo
 
-( Add your deployed link here: Netlify / GitHub Pages / Vercel )
+( Soon to be deployed link here: Netlify / GitHub Pages / Vercel )
 
 ---
 
