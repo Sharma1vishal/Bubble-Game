@@ -58,3 +58,23 @@ This project demonstrates DOM manipulation, event handling, game logic, responsi
 ---
 
 ## 🧩 Folder Structure
+
+📦 bubble-game
+┣ 📜 bubble.html
+┣ 📜 bubble.css
+┗ 📜 bubble.js
+
+🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+  - Flexbox
+  - Grid
+  - Animations
+  - UI Shadowing
+- **Vanilla JavaScript**
+  - DOM Manipulation
+  - Event Delegation
+  - Real-Time Rendering
+  - Modal System
+  - Game Loop Logic
